@@ -69,7 +69,7 @@ Interested in contributing? Fork the repository and submit pull requests.
 ## Contact
 For inquiries or collaborations, reach out via:
 - **Email**: [shrimalinishka@gmail.com](mailto:shrimalinishka@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nishka-codes/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/nishka-codes/)
 
 ---
 Empowering candidates with AI-driven interview preparation. 🚀
